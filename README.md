@@ -2,21 +2,31 @@
 I am Shubham.
 Currently working on MERN stack.
 
+
+
 Languages -
 
 Javascript, HTML, CSS, Python, C
+
+
 
 Technologies & Frameworks -
 
 React.js, Express.js, Node.js
 
+
+
 Database -
 
 MongoDb
 
+
+
 OS -
 
 Windows, Linux
+
+
 
 IDE - 
 
