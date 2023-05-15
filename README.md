@@ -1,5 +1,21 @@
-### Hi there 👋
+### Hi guys! 👋
+I am Shubham.
+Currently working on MERN stack.
 
+Languages -
+Javascript, HTML, CSS, Python, C
+
+Technologies & Frameworks -
+React.js, Express.js, Node.js
+
+Database -
+MongoDb
+
+OS -
+Windows, Linux
+
+IDE - 
+Visual Studio Code
 <!--
 **Shubhamsss8273/Shubhamsss8273** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
