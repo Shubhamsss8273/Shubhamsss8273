@@ -4,33 +4,23 @@ Currently working on MERN stack.
 
 
 
-Languages -
-
-Javascript, HTML, CSS, Python, C
+Languages - Javascript, HTML, CSS, Python, C
 
 
 
-Technologies & Frameworks -
-
-React.js, Express.js, Node.js
+Technologies & Frameworks - React.js, Express.js, Node.js
 
 
 
-Database -
-
-MongoDb
+Database - MongoDb
 
 
 
-OS -
-
-Windows, Linux
+OS - Windows, Linux
 
 
 
-IDE - 
-
-Visual Studio Code
+IDE - Visual Studio Code
 <!--
 **Shubhamsss8273/Shubhamsss8273** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
